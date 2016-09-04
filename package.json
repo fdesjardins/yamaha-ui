@@ -1,0 +1,36 @@
+{
+  "name": "yamaha-web",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "repository": "fdesjardins/yamaha-web",
+  "author": {
+    "name": "Forrest Desjardins",
+    "email": "desjardinsfg@gmail.com",
+    "url": "github.com/fdesjardins"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "scripts": {
+    "test": "xo && nyc ava test/test.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "xo": {
+    "esnext": true
+  },
+  "nyc": {
+    "reporter": [
+      "lcov",
+      "text"
+    ]
+  }
+}
