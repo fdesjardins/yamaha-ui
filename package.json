@@ -18,12 +18,11 @@
   "files": [
     "index.js"
   ],
-  "keywords": [
-  ],
+  "keywords": [],
   "dependencies": {
+    "yamaha-nodejs": "^0.6.0"
   },
-  "devDependencies": {
-  },
+  "devDependencies": {},
   "xo": {
     "esnext": true
   },
