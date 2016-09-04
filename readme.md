@@ -1,6 +1,6 @@
-# Yamaha Web Interface
+# YamahaUI
 
-Control your Yamaha AV receiver from your browser.
+Control your Yamaha AV receiver from your PC.
 
 # Install
 

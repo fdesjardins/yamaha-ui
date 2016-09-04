@@ -1,9 +1,9 @@
 {
-  "name": "yamaha-web",
+  "name": "yamaha-ui",
   "version": "0.0.0",
   "description": "",
   "license": "MIT",
-  "repository": "fdesjardins/yamaha-web",
+  "repository": "fdesjardins/yamaha-ui",
   "author": {
     "name": "Forrest Desjardins",
     "email": "desjardinsfg@gmail.com",
